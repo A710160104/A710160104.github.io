@@ -1,6 +1,5 @@
 # A710160104.github.io
 index.html
-<!DOCTYPE html>
 <html>
 <body>
 
