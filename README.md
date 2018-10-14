@@ -1,8 +1,8 @@
 # A710160104.github.io
 index.html
 <html>
-tugas 2
-1.Android App Development for Teaching Reduced Forms of EFL Listening Comprehension to Decrease Cognitive Load </p>
+  <h1>tugas 2</h1>
+<p>1.Android App Development for Teaching Reduced Forms of EFL Listening Comprehension to Decrease Cognitive Load </p>
 -alasan saya memilih judul ini adalah : karena  aspek kognitif berorientasi pada kemampuan berfikir yang mencakup kemampuan intelektual yang lebih sederhana, yaitu mengingat, sampai pada kemampuan memecahkan masalah yang menuntut siswa untuk menghubungakan dan menggabungkan beberapa ide, gagasan, metode atau prosedur yang dipelajari untuk memecahkan masalah. </p>
 2.Teaching Interface of Finger Braille Teaching System Using Tablet Computers </p>
 -alasan saya adalah : karena pengajaran yang di lakukan huruf braille dengan menggunakan tablet yang sesuai dengan zaman komputer yang sedang terjadi pada jaman sekarang. </p>
